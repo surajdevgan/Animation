@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1Q76pjLO2iRrVqnW6ZaaNANRs5gYehv5V/view?usp=shari
 
 I submitted the exam late because internet was not working properly 
 
-I was showing 1 hour 45 min to upload the video
+I was showing 1 hour 41 min to upload the video
 
 ![error](https://user-images.githubusercontent.com/26799447/121724167-1f93ff80-cb05-11eb-8094-f02afcd70b59.jpeg)
 
