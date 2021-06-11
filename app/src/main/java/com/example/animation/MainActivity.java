@@ -120,10 +120,19 @@ if(screenWidth + 700 < y_pos)
 
 
         }
+        if(x_pos<0)
+        {
+            x_pos -= event.values[0];
+            ball.setX(x_pos);
 
+        }
 
+        if(y_pos<0)
+        {
+            y_pos -= event.values[1];
+            ball.setY(y_pos);
 
-
+        }
 
     }
 
